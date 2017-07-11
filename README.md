@@ -1,4 +1,4 @@
-# leap
+# hexadecimal
 
 A skeletal project to get started with the hexadecimal dojo on exercism.io quickly.
 
