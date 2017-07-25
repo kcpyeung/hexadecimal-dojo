@@ -1,3 +1,2 @@
-(ns hexadecimal
-  (:gen-class))
+(ns hexadecimal)
 
